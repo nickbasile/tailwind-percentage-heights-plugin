@@ -1,6 +1,6 @@
 {
   "name": "tailwind-percentage-heights-plugin",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A plugin for Tailwind CSS that adds percentage heights",
   "main": "index.js",
   "scripts": {
