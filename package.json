@@ -17,7 +17,7 @@
     "Plugin"
   ],
   "author": "Nick Basile <nicholas.basile@outlook.com> (https://nick-basile.com)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/nickbasile/tailwind-percentage-heights-plugin/issues"
   },
