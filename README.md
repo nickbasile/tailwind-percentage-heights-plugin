@@ -5,7 +5,7 @@ Adds the following classes to your Tailwind project:
 
 | Class    | Property           |
 | :------- | :----------------- |
-| .h-1/    | height: 50%;       |
+| .h-1/2   | height: 50%;       |
 | .h-1/3   | height: 33.33333%; |
 | .h-2/3   | height: 66.66667%; |
 | .h-1/4   | height: 25%;       |
