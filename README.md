@@ -19,7 +19,6 @@ Adds the following classes to your Tailwind project:
 | .h-3/10  | height: 30%;       |
 | .h-7/10  | height: 70%;       |
 | .h-9/10  | height: 90%;       |
-| .h-full  | height: 100%;      |
 
 ## Installation
 
@@ -33,7 +32,7 @@ In your Tailwind config file (typically: `tailwind.js`), you can require this pa
 
 ```
 plugins: [
-    require('<path-to-package>/tailwind-percentage-heights-plugin')
+    require('<path-to-package>/tailwind-percentage-heights-plugin')(),
 ]
 
 ``` 
