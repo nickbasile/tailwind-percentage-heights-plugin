@@ -1,0 +1,25 @@
+{
+  "name": "tailwind-percentage-heights-plugin",
+  "version": "0.1.0",
+  "description": "A plugin for Tailwind CSS that adds percentage heights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickbasile/tailwind-percentage-heights-plugin.git"
+  },
+  "keywords": [
+    "Tailwind",
+    "CSS",
+    "CSS",
+    "Plugin"
+  ],
+  "author": "Nick Basile <nicholas.basile@outlook.com> (https://nick-basile.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickbasile/tailwind-percentage-heights-plugin/issues"
+  },
+  "homepage": "https://github.com/nickbasile/tailwind-percentage-heights-plugin#readme"
+}
