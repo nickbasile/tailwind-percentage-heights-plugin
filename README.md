@@ -34,7 +34,6 @@ In your Tailwind config file (typically: `tailwind.js`), you can require this pa
 plugins: [
     require('<path-to-package>/tailwind-percentage-heights-plugin')(),
 ]
-
 ``` 
 
 Then if you re-run your build suite, you can start using the classes listed above.
