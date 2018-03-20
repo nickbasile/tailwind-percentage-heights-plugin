@@ -20,3 +20,22 @@ Adds the following classes to your Tailwind project:
 | .h-7/10  | height: 70%;       |
 | .h-9/10  | height: 90%;       |
 | .h-full  | height: 100%;      |
+
+## Installation
+
+You can add this to your project via NPM by running:
+
+`npm i tailwind-percentage-heights-plugin`
+
+## How to Use
+
+In your Tailwind config file (typically: `tailwind.js`), you can require this package in the `plugins` Array, like so:
+
+```
+plugins: [
+    require('<path-to-package>/tailwind-percentage-heights-plugin')
+]
+
+``` 
+
+Then if you re-run your build suite, you can start using the classes listed above.

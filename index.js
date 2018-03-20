@@ -75,6 +75,8 @@ module.exports = function () {
      }
     });
 
-    addUtilities(heightUtilities);
+    addUtilities(heightUtilities, {
+      variants: ['responsive'],
+    });
   }
 }
